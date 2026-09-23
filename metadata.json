@@ -1,0 +1,6 @@
+{
+  "name": "Simply Unpack",
+  "description": "Unpacking, organising and complete home setup in Bengaluru",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
