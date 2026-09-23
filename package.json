@@ -1,0 +1,24 @@
+{
+  "name": "simplyunpack-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Simply Unpack mobile web app: discovery, quoting, booking and move tracking for end-to-end home setup (prepack, packers & movers, unpacking, organising, wardrobe and kitchen setup) in Bengaluru.",
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.1",
+    "vite": "5.4.8"
+  }
+}
